@@ -44,7 +44,7 @@ NA
 
 ## Summary
 
-Overall the diffrent models got us various levels of accuracy, precison, and recall scores. When we take a look at how the models compare to the original reuslts it seems that there are some that perform better than others. 
+Overall the diffrent models got us various levels of accuracy, precison, and recall scores. When we take a look at how the models compare to the original reuslts it seems that there are some that perform better than others. These models are relatively in the same range of one another when it comes to accuracy as they do not break the threshold that most would consider to be a good level of accuracy. 
 
 #### Recomendation
-I would recommend using the SMOTE Oversampling as it gave the best accuracy score, and it also had the highest combination of precison, and recall scores.
+I would recommend using the SMOTE Oversampling as it gave the best accuracy score, and it also had the highest combination of precison, and recall scores.However I would say that none of the accuracy scores hit the 70% threshold so they are all not at the level that we would like to see. There will be cases where they are not good predictors at choosing low vs high risk credit cards and a better model should be chosen. 
