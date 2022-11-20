@@ -43,3 +43,8 @@ NA
 NA
 
 ## Summary
+
+Overall the diffrent models got us various levels of accuracy, precison, and recall scores. When we take a look at how the models compare to the original reuslts it seems that there are some that perform better than others. 
+
+#### Recomendation
+I would recommend using the SMOTE Oversampling as it gave the best accuracy score, and it also had the highest combination of precison, and recall scores.
