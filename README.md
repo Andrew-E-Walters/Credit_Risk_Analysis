@@ -1,5 +1,4 @@
 # Credit_Risk_Analysis
-# Credit_Risk_Analysis
 
 ## Overview of the analysis
 Credit risk is an unbalanced classification problem, as good loans easily outnumber risky loans. We will need to employ different techniques to train and evaluate models with unbalanced classes We need to use libraries to build and evaluate models using resampling. We will then compare the machine learning modials and determine which is the best predictor of credit risk. First, we will use the oversampling RandomOverSampler and SMOTE algorithms, and then you’ll use the undersampling ClusterCentroids algorithm, then we will train and compare two different ensemble classifiers, BalancedRandomForestClassifier and EasyEnsembleClassifier, to predict credit risk and evaluate each model. 
